@@ -1,0 +1,85 @@
+.cont{
+    /* margin: 10px; */
+    background-color: beige;
+    width: 100% !important;
+}
+
+.hidden{
+    display: none;
+}
+
+.heading{
+    text-align: center;
+    padding: 11px 15px;
+    background-color: aqua;
+
+}
+
+.wish{
+    display: flex;
+    margin: 70px 0px;
+}
+
+.image1, .image2{
+    height: 621px;
+    width: 311px;
+    margin: 0px 55px;
+    border-radius: 20px;
+}
+
+.para{
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.khaas{
+    text-align: center;
+
+}
+
+hr{
+    width: 20%;
+    border: dotted;
+    margin: 0px auto;
+}
+
+.links{
+    display: flex;
+    margin: 25px 10px;
+    justify-content: center;
+}
+
+.link1, .link2, .link3{
+    margin: 8px;
+    width: 457px;
+    height: 50px;
+    padding: 11px;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: burlywood;
+    text-align: center;
+    font-weight: 600;
+
+}
+
+.links a{
+    text-decoration: none;
+    color: black;
+}
+
+.footer{
+    background-color: rgb(12, 12, 12);
+    text-align: center;
+    height: 65px;
+    color: white;
+    font-weight: 800;
+}
+
+.social{
+    padding: 13px;
+}
+
+.last{
+    background-color: rgb(51, 51, 51);
+}
